@@ -135,6 +135,7 @@ header h1 {
   }
   
   .fact-txt {
+    margin-left: 10px;
     font-size: 16px;
     font-weight: 400;
     color: #353535;
